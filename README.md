@@ -1,5 +1,5 @@
 # chatbot-with-gui
-#### A fun little chatbot with a user interface that can engage in small talk.
+#### A conversational chatbot with a user interface that can engage in small talk.
  
 \
 Here's an example conversation it had with another chatbot:
